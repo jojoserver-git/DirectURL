@@ -1,6 +1,6 @@
 [J.Desktop]
-Last_UserLogin_Date=2026-02-02 오전 12:10:13
-Last_PrivateURL_Setup=2번
+Last_UserLogin_Date=2026-02-03 오전 2:05:00
+Last_PrivateURL_Setup=1번
 [J.Desktop:1번]
 시스템 종료=1&1&0&0&80___1&192___
 시스템 다시시작=1&1&0&0&82___0&0___
@@ -11,4 +11,31 @@ Windows계정 잠금=0&0&0&0&0___0&0___
 프로세스 강제종료=1&1&0&0&115___1&0___
 창 최상위로 고정=0&0&0&1&36___1&0___
 인수인계 메모장=1&1&0&0&77___1&0___
-Edge패널 열기=0&0&0&0&192___1&0___
+Edge패널 열기=0&0&0&0&192___0&0___
+URL(1)=SwitchLoginUser.ps1___URL___C:\Users\J.Desktop\OneDrive\문서\Coding Files\PowerShell\사용자 즉시전환\SwitchLoginUser.ps1&&PermissionLevel:1,0___0&0&0&0&0___1&8388863___
+URL(2)=POSCO VDI___URL___【App-Window】 https://pvdi.posco.net___0&0&0&0&0___1&16711680___
+URL(3)=DirectURL (by Jinok J.)___URL___C:\Users\J.Desktop\OneDrive\문서\Coding Files\Coding Files for Programs\DirectURL (by Jinok J.)___0&0&0&0&0___1&0___
+URL(4)=Program Files (x86)\DirectURL___URL___C:\Program Files (x86)\DirectURL___0&0&0&0&0___1&0___
+URL(5)=ProgramData\DirectURL___URL___C:\ProgramData\DirectURL___0&0&0&0&0___1&0___
+URL(6)=Roaming\DirectURL___URL___C:\Users\J.Desktop\AppData\Roaming\DirectURL___0&0&0&0&0___1&0___
+URL(7)=VB Projects___URL___C:\Users\J.Desktop\OneDrive\문서\Coding Files\VB Projects___1&0&0&0&50___1&0___
+URL(8)=창 최상위로 고정해제___URL___Direct_TopMostWindow 0___0&0&0&1&35___1&192___
+URL(9)=디스플레이 해상도 설정___URL___Direct_ChangeDisplay 0, 2160 * 1440___1&1&0&0&112___0&0___
+URL(10)=디스플레이 해상도 설정___URL___Direct_ChangeDisplay 0, 2560 * 1080___1&1&0&0&113___0&0___
+URL(11)=디스플레이 해상도 UP___URL___Direct_ChangeDisplay 0, UP___1&1&0&0&33___0&0___
+URL(12)=디스플레이 해상도 DOWN___URL___Direct_ChangeDisplay 0, DOWN___1&1&0&0&34___0&0___
+URL(13)=특수문자(한자) 키___URL___【No-Message】 Direct_KeyConversion 25, 0___1&1&0&0&190___0&0___
+URL(14)=미디어 음소거___URL___【No-Message】 Direct_KeyConversion 173, 0___1&0&0&1&13___0&0___
+URL(15)=미디어 볼륨 -___URL___【No-Message】 【No-Sound】 Direct_KeyConversion 174, 0___1&0&0&1&40___0&0___
+URL(16)=미디어 볼륨 +___URL___【No-Message】 【No-Sound】 Direct_KeyConversion 175, 0___1&0&0&1&38___0&0___
+URL(17)=미디어 다음___URL___【No-Message】 Direct_KeyConversion 176, 0___1&0&0&1&39___0&0___
+URL(18)=미디어 이전___URL___【No-Message】 Direct_KeyConversion 177, 0___1&0&0&1&37___0&0___
+URL(19)=미디어 재생___URL___【No-Message】 Direct_KeyConversion 179, 0___1&0&0&1&32___0&0___
+URL(20)=메모장___URL___notepad.exe___1&1&0&0&78___0&0___
+URL(21)=계산기___URL___calc.exe___1&0&0&1&187___1&0___
+URL(22)=프로젝트 - 다른화면에 표시___URL___Direct_KeyConversion P, 3___1&1&0&1&8___1&0___
+URL(23)=쿼리스트링 TEST___URL___【Query-String】 https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&ackey=3230uw8d&query=___1&1&0&0&83___0&0___
+URL(24)=123___알림___zxc&(NewLine)&123&(NewLine)&321___0&0&0&0&0___0&0___
+URL(25)=PFX 인증서 서명.ps1___URL___C:\Users\J.Desktop\OneDrive\문서\Coding Files\Coding Files for Programs\DirectURL (by Jinok J.)\DirectURL.Cert\PFX 인증서 서명.ps1___0&0&0&0&0___0&0___
+URL(26)=TempNote.txt___URL___C:\Users\J.Desktop\Desktop\TempNote.txt___0&0&0&0&0___0&0___
+URL(27)=test___CMD___1234asdf&&PermissionLevel:관리자권한___0&0&0&0&0___0&0___
