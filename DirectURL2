@@ -1,0 +1,72 @@
+[DirectURL]
+App_CompanyMode=
+TCP/IP_ActivationCode=DIRECTURL
+ScreenSaverOff=True
+Last_UserLogin_Date=2026-02-06 오후 8:49:38
+[POSCO]
+URL(1)=EP 로그인___URL___【Maximized】【App-Window】 https://swpsso.posco.net/idms/U61/jsp/login/saml_login.jsp___0&0&0&0&0___1&192___날짜지정&매월&매일&--&--&1
+URL(2)=팀즈(Teams)___URL___https://teams.microsoft.com/v2/?RK=POSIRM_U63_R010001&FN=POSIRM_U63_F010001_01&clientexperience=t2___0&0&0&0&0___0&0___
+URL(3)=i_Portal(BI-Matrix)___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Fpimtx.posco.co.kr%3A8101%2FS95A%2FS95A10%2Fextention%2Fsso%2Fsso_login.jsp%3F%26RK%3DPOSIRM_S95_R010105%26FN%3DPOSIRM_S95_F010105_01___0&0&0&0&0___0&0___
+URL(4)=공지사항___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Fswpksi.posco.net%3A7091%2Fpilatus%2Fcst%2Fposco%2Fbbs%2Fusr.index.jsp%3FfolderId%3D11063844___0&0&0&0&0___0&0___
+URL(5)=근태관리___URL___https://p-lbpcerp.posco.co.kr:7443/OA_HTML/custom/possshr/s29/S290000001.jsp?pageID=S290000001&RK=POSEP_103111_E180&FN=POSEP_EMP_0201#___0&0&0&0&0___0&0___
+URL(6)=급여명세서___URL___https://p-lbpcerp.posco.co.kr:7443/OA_HTML/custom/possshr/payroll/S20120AL001.jsp?&RK=POSEP_103111_E180&FN=POSEP_EMP_0210___0&0&0&0&0___0&0___
+URL(7)=일정___URL___http://pcpca03.posco.net/30/cal/calperson91.nsf/MainFrame?openform___0&0&0&0&0___0&0___
+URL(8)=결재___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Fswpepext.posco.net%3A7091%2FU12%2Fu121%2Fu120100020.jsp%3FnextPage%3Du120200120___0&0&0&0&0___0&0___
+URL(9)=사람찾기___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Ffindpeople.posco.co.kr%3A7780%2FS35%2FS35020%2Fs35050f10%2Fs35050f001.do%3Fevent%3Dauth___0&0&0&0&0___0&0___
+URL(10)=복지시설포탈___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Fposwfs.posco.net%3A8101%2FS28%2FS28A10%2Fweb%2Fcommon%2Findex.do%3F%26RK%3DPOSIRM_S28_R010001%26FN%3DPOSIRM_S28_F010001___0&0&0&0&0___0&0___
+URL(11)=EasyThanks-Planet___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Fwww.easythanks-planet.com%3A7010%2FS70%2FS70010%2Fprogram%2Fmember%2Fsso_login_proc.jsp___0&0&0&0&0___0&0___
+URL(12)=포스코투데이___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Fwww.poscoway.net%3A8101%2FS15%2FS15110%2Flogin_famswpep.do___0&0&0&0&0___0&0___
+URL(13)=작업표준___URL___http://sso.posco.co.kr:2002/eplink/C91010C001.jsp?&RK=POSEP_231102_W1000&FN=POSEP_S40080_1006___0&0&0&0&0___0&0___
+URL(14)=안전보건플랫폼___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Fesafety.posco.net%2Fb21001-portal%2Flogin%2Fsso%3Furl%3D%2Fb21001-front%26RK%3DPOSIRM_B21_R010009%26FN%3DPOSIRM_B21_F010009___0&0&0&0&0___0&0___
+URL(15)=작업현황 모니터링___URL___http://swpsso.posco.net/idms/U61/jsp/redirectSMSP.jsp?redir_url=http%3A%2F%2Fesafety.posco.net%2Fb21001-portal%2Flogin%2Fsso%3Furl%3D%2Fb21040-front%2Fb210401200%3FRK%3DPOSIRM_B21_R010007%26FN%3DPOSIRM_B21_F010007___0&0&0&0&0___0&0___날짜지정&매월&매일&--&--&1
+URL(16)=포)MES 로그인___URL___【Maximized】【New-Window】【Exclude-Group】 http://mes3.apps.pkmes.posco.co.kr/common/mes3/webdrm/default.htm?&RK=POSIRM_MES_R010004&FN=POSIRM_MES_F010004_02___0&0&0&0&0___1&0___
+URL(17)=광)MES 로그인___URL___【Maximized】【New-Window】【Exclude-Group】 http://mes3.apps.pkmes.posco.co.kr/common/mes3/webdrm/default.htm?&RK=POSIRM_MES_R010004&FN=POSIRM_MES_F010004_01___0&0&0&0&0___1&0___
+
+[*]
+Last_UserLogin_Date=2026-02-14 오전 8:45:00
+Last_PrivateURL_Setup=1번
+[*_Options]
+General=1___1___1___0___0___0
+EdgePanel=1___0___1___0___20
+Browser=0___1___1___1___0&0___87&100
+AutoStart=0.5___1___1___1___1___1___0
+[*:1번]
+시스템 종료=1&1&0&0&80___1&192___
+시스템 다시시작=1&1&0&0&82___0&0___
+시스템 절전모드=0&0&0&0&0___0&0___
+Windows계정 로그아웃=1&1&0&0&76___0&0___
+Windows계정 잠금=0&0&0&0&0___0&0___
+모니터 화면 끄기=0&0&0&0&0___0&0___
+프로세스 강제종료=1&1&0&0&115___1&0___
+창 최상위로 고정=0&0&0&1&36___1&0___
+인수인계 메모장=1&1&0&0&77___1&0___
+Edge패널 열기=0&0&0&0&192___0&0___
+URL(1)=SwitchLoginUser.ps1___URL___%USERPROFILE%\OneDrive\문서\Coding Files\PowerShell\사용자 즉시전환\SwitchLoginUser.ps1&&PermissionLevel:1,0___0&0&0&0&0___1&8388863___
+URL(2)=POSCO VDI___URL___【App-Window】 https://pvdi.posco.net___0&0&0&0&0___1&16711680___
+URL(3)=DirectURL (by Jinok J.)___URL___%USERPROFILE%\OneDrive\문서\Coding Files\Coding Files for Programs\DirectURL (by Jinok J.)___0&0&0&0&0___1&0___
+URL(4)=Program Files (x86)\DirectURL___URL___C:\Program Files (x86)\DirectURL___0&0&0&0&0___1&0___
+URL(5)=ProgramData\DirectURL___URL___C:\ProgramData\DirectURL___0&0&0&0&0___1&0___
+URL(6)=Roaming\DirectURL___URL___%USERPROFILE%\AppData\Roaming\DirectURL___0&0&0&0&0___1&0___
+URL(7)=VB Projects___URL___%USERPROFILE%\OneDrive\문서\Coding Files\VB Projects___1&0&0&0&50___1&0___
+URL(8)=창 최상위로 고정해제___URL___Direct_TopMostWindow 0___0&0&0&1&35___1&192___
+URL(9)=디스플레이 해상도 설정___URL___Direct_ChangeDisplay 0, 2160 * 1440___1&1&0&0&112___0&0___
+URL(10)=디스플레이 해상도 설정___URL___Direct_ChangeDisplay 0, 2560 * 1080___1&1&0&0&113___0&0___
+URL(11)=디스플레이 해상도 UP___URL___Direct_ChangeDisplay 0, UP___1&1&0&0&33___0&0___
+URL(12)=디스플레이 해상도 DOWN___URL___Direct_ChangeDisplay 0, DOWN___1&1&0&0&34___0&0___
+URL(13)=특수문자(한자) 키___URL___【No-Message】 Direct_KeyConversion 25, 0___1&1&0&0&190___0&0___
+URL(14)=미디어 음소거___URL___【No-Message】 Direct_KeyConversion 173, 0___1&0&0&1&13___0&0___
+URL(15)=미디어 볼륨 -___URL___【No-Message】 【No-Sound】 Direct_KeyConversion 174, 0___1&0&0&1&40___0&0___
+URL(16)=미디어 볼륨 +___URL___【No-Message】 【No-Sound】 Direct_KeyConversion 175, 0___1&0&0&1&38___0&0___
+URL(17)=미디어 다음___URL___【No-Message】 Direct_KeyConversion 176, 0___1&0&0&1&39___0&0___
+URL(18)=미디어 이전___URL___【No-Message】 Direct_KeyConversion 177, 0___1&0&0&1&37___0&0___
+URL(19)=미디어 재생___URL___【No-Message】 Direct_KeyConversion 179, 0___1&0&0&1&32___0&0___
+URL(20)=메모장___URL___notepad.exe___1&1&0&0&78___0&0___
+URL(21)=계산기___URL___calc.exe___1&0&0&1&187___1&0___
+URL(22)=프로젝트 - 다른화면에 표시___URL___Direct_KeyConversion P, 3___1&1&0&1&8___1&0___
+URL(23)=쿼리스트링 TEST___URL___【Query-String】 https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&ackey=3230uw8d&query=___1&1&0&0&83___0&0___
+URL(24)=123___알림___zxc&(NewLine)&123&(NewLine)&321___0&0&0&0&0___0&0___
+URL(25)=PFX 인증서 서명.ps1___URL___%USERPROFILE%\OneDrive\문서\Coding Files\Coding Files for Programs\DirectURL (by Jinok J.)\DirectURL.Cert\PFX 인증서 서명.ps1___0&0&0&0&0___0&0___
+URL(26)=TempNote.txt___URL___%USERPROFILE%\Desktop\TempNote.txt___0&0&0&0&0___0&0___
+URL(27)=test___CMD___1234asdf&&PermissionLevel:관리자권한___0&0&0&0&0___0&0___
+URL(28)=VOICE TTS 테스트___알림___【No-Message】【NoShow-Window】【Read-Voice】 현재시각, 9시입니다.___0&0&0&0&0___0&0&0&0&0___날짜지정&매월&매일&21&00&1
+URL(29)=심볼릭링크(SymLink) 생성.ps1___URL___C:\Users\J.Desktop\OneDrive\문서\Coding Files\Coding Files for Programs\DirectURL (by Jinok J.)\DirectURL - Store용\심볼릭링크(SymLink) 생성.ps1&&PermissionLevel:1,0___0&0&0&0&0___1&0___
