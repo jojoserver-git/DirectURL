@@ -70,4 +70,4 @@ URL(25)=PFX 인증서 서명.ps1___URL___%USERPROFILE%\OneDrive\문서\Coding Fi
 URL(26)=TempNote.txt___URL___%USERPROFILE%\Desktop\TempNote.txt___0&0&0&0&0___0&0___
 URL(27)=test___CMD___1234asdf&&PermissionLevel:관리자권한___0&0&0&0&0___0&0___
 URL(28)=VOICE TTS 테스트___알림___【No-Message】【NoShow-Window】【Read-Voice】 현재시각, 9시입니다.___0&0&0&0&0___0&0&0&0&0___날짜지정&매월&매일&21&00&1
-URL(29)=심볼릭링크(SymLink) 생성.ps1___URL___C:\Users\J.Desktop\OneDrive\문서\Coding Files\Coding Files for Programs\DirectURL (by Jinok J.)\DirectURL - Store용\심볼릭링크(SymLink) 생성.ps1&&PermissionLevel:1,0___0&0&0&0&0___1&0___
+URL(29)=심볼릭링크(SymLink) 생성.ps1___URL___%USERPROFILE%\OneDrive\문서\Coding Files\Coding Files for Programs\DirectURL (by Jinok J.)\DirectURL - Store용\심볼릭링크(SymLink) 생성.ps1&&PermissionLevel:1,0___0&0&0&0&0___1&0___
