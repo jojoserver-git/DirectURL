@@ -23,15 +23,15 @@ URL(15)=작업현황 모니터링___URL___http://swpsso.posco.net/idms/U61/jsp/r
 URL(16)=포)MES 로그인___URL___【Maximized】【New-Window】【Exclude-Group】 http://mes3.apps.pkmes.posco.co.kr/common/mes3/webdrm/default.htm?&RK=POSIRM_MES_R010004&FN=POSIRM_MES_F010004_02___0&0&0&0&0___1&0___
 URL(17)=광)MES 로그인___URL___【Maximized】【New-Window】【Exclude-Group】 http://mes3.apps.pkmes.posco.co.kr/common/mes3/webdrm/default.htm?&RK=POSIRM_MES_R010004&FN=POSIRM_MES_F010004_01___0&0&0&0&0___1&0___
 
-[%username%]
+[%USERNAME%]
 Last_UserLogin_Date=2026-02-14 오전 8:45:00
 Last_PrivateURL_Setup=1번
-[%username%_Options]
+[%USERNAME%_Options]
 General=1___1___1___0___0___0
 EdgePanel=1___0___1___0___20
 Browser=0___1___1___1___0&0___87&100
 AutoStart=0.5___1___1___1___1___1___0
-[%username%:1번]
+[%USERNAME%:1번]
 시스템 종료=1&1&0&0&80___1&192___
 시스템 다시시작=1&1&0&0&82___0&0___
 시스템 절전모드=0&0&0&0&0___0&0___
