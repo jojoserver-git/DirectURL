@@ -1,13 +1,13 @@
 [DirectURL]
 Language=
 App_CompanyMode=
-TCP/IP_ActivationCode=DIRECTURL
+Sync_ActivationCode=DIRECTURL
 ScreenSaverOff=True
 Load_Repository=jojoserver-git/DirectURL/main/DirectURL
 IP_Address=192.168.68.73
 
 [J.Desktop]
-Last_UserLogin_Date=2026-04-29 오후 10:53:22
+Last_UserLogin_Date=2026-04-30 오전 12:13:46
 Last_PrivateURL_Setup=1번
 [J.Desktop_Options]
 General=1___1___1___0___0___0
