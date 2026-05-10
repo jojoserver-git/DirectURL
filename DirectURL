@@ -1,10 +1,9 @@
 [DirectURL]
 Language=
 App_CompanyMode=
-Sync_ActivationCode=DIRECTURL
-Sync_IP_Address=192.168.68.73
 ScreenSaverOff=True
 Load_Repository=jojoserver-git/DirectURL/main/DirectURL
+Load_TCPIPaddress=192.168.68.73
 
 [J.Desktop]
 Last_UserLogin_Date=2026-04-30 오전 12:13:46
